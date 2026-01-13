@@ -32,7 +32,7 @@ Project ini dibuat sebagai **media belajar** untuk memahami dasar-dasar pengemba
 ## 📱 Screenshot
 
 ### 1. Splashscreen
-<img src="" width="300" />
+<img src="https://github.com/UdinBengkel/kalkulator/blob/main/gambar/sc1.gif?raw=true" width="300" />
 
 
 ## 🎯 Tujuan
