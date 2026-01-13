@@ -34,6 +34,12 @@ Project ini dibuat sebagai **media belajar** untuk memahami dasar-dasar pengemba
 ### 1. Splashscreen
 <img src="https://github.com/UdinBengkel/kalkulator/blob/main/gambar/sc1.gif?raw=true" width="300" />
 
+### 2. History Sheet
+<img src="https://github.com/UdinBengkel/kalkulator/blob/main/gambar/history.gif?raw=true" width="300" />
+
+### 3. Settings Sheet
+<img src="https://github.com/UdinBengkel/kalkulator/blob/main/gambar/info_settings.gif?raw=true" width="300" />
+
 
 ## 🎯 Tujuan
 Project ini dibuat untuk:
