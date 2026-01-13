@@ -43,6 +43,7 @@ Project ini dibuat sebagai **media belajar** untuk memahami dasar-dasar pengemba
 ### 4. Demo
 https://www.youtube.com/shorts/nfGhq9Nurbk
 
+---
 
 ## 🎯 Tujuan
 Project ini dibuat untuk:
