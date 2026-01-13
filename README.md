@@ -31,7 +31,9 @@ Project ini dibuat sebagai **media belajar** untuk memahami dasar-dasar pengemba
 
 ## 📱 Screenshot
 
----
+### 1. Splashscreen
+<img src="" width="300" />
+
 
 ## 🎯 Tujuan
 Project ini dibuat untuk:
