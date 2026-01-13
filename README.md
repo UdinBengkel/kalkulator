@@ -40,6 +40,9 @@ Project ini dibuat sebagai **media belajar** untuk memahami dasar-dasar pengemba
 ### 3. Settings Sheet
 <img src="https://github.com/UdinBengkel/kalkulator/blob/main/gambar/info_settings.gif?raw=true" width="300" />
 
+### 4. Demo
+https://www.youtube.com/shorts/nfGhq9Nurbk
+
 
 ## 🎯 Tujuan
 Project ini dibuat untuk:
